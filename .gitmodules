@@ -8,3 +8,8 @@
 	url = https://github.com/kvittingseerup/isoformswitchanalyzer
 	shallow = true
 	registered = true
+[submodule "pfamAnalyzeR"]
+	path = pfamAnalyzeR
+	url = https://github.com/kvittingseerup/pfamanalyzer
+	shallow = true
+	registered = true
